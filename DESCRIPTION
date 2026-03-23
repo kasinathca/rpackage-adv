@@ -1,0 +1,11 @@
+Package: mypackage
+Type: Package
+Title: Data Analytics Question Scripts Bundle
+Version: 0.1.0
+Author: Kasinath C A
+Maintainer: Kasinath C A <kasinath@example.com>
+Description: Bundles Data Analytics practical question scripts extracted from assessment documents.
+  Provides helper functions to list and run each bundled script from installed package resources.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

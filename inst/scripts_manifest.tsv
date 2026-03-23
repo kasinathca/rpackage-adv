@@ -1,0 +1,89 @@
+﻿file`tsource`texp_no`ttitle
+exp_1_1_3d_array_creation.R	assessment1	1.1	3D Array Creation
+exp_1_2_list_with_mixed_vectors.R	assessment1	1.2	List with Mixed Vectors
+exp_1_3_student_dataframe.R	assessment1	1.3	Student Dataframe
+exp_1_4_character_vector_to_factor.R	assessment1	1.4	Character Vector to Factor
+exp_1_5_5x5_matrix_row_and_column_extraction.R	assessment1	1.5	5x5 Matrix â€” Row and Column Extraction
+exp_1_6_vector_statistics_mean_median_sd.R	assessment1	1.6	Vector Statistics (Mean, Median, SD)
+exp_1_7_merging_two_dataframes.R	assessment1	1.7	Merging Two Dataframes
+exp_1_8_named_list_operator_access.R	assessment1	1.8	Named List â€” $ Operator Access
+exp_1_9_dataframe_subsetting_by_threshold.R	assessment1	1.9	Dataframe Subsetting by Threshold
+exp_1_10_matrix_element_wise_addition_and_multiplication.R	assessment1	1.10	Matrix Element-wise Addition and Multiplication
+exp_1_11_vector_extract_elements_check_presence.R	assessment1	1.11	Vector â€” Extract Elements & Check Presence
+exp_1_12_vector_sort_and_rank.R	assessment1	1.12	Vector â€” Sort and Rank
+exp_1_13_employee_dataframe_summary.R	assessment1	1.13	Employee Dataframe â€” Summary
+exp_1_14_fizzbuzz_style_1_to_100.R	assessment1	1.14	FizzBuzz-style: 1 to 100
+exp_1_15_4x2_matrix_row_wise_fill.R	assessment1	1.15	4x2 Matrix â€” Row-wise Fill
+exp_1_16_factor_levels_and_occurrence_count.R	assessment1	1.16	Factor â€” Levels and Occurrence Count
+exp_1_17_three_vectors_types.R	assessment1	1.17	Three Vectors â€” Types
+exp_1_18_sequence_mean_and_sum.R	assessment1	1.18	Sequence, Mean, and Sum
+exp_1_19_first_10_fibonacci_numbers.R	assessment1	1.19	First 10 Fibonacci Numbers
+exp_1_20_english_letters_extract_by_position.R	assessment1	1.20	English Letters â€” Extract by Position
+exp_1_21_max_and_min_of_a_vector.R	assessment1	1.21	Max and Min of a Vector
+exp_1_22_unique_elements_string_and_vector.R	assessment1	1.22	Unique Elements â€” String and Vector
+exp_1_23_string_operations_upper_extract_count.R	assessment1	1.23	String Operations â€” Upper, Extract, Count
+exp_1_24_3x3_matrix_from_three_vectors.R	assessment1	1.24	3x3 Matrix from Three Vectors
+exp_1_25_insert_new_row_into_3x3_matrix.R	assessment1	1.25	Insert New Row into 3x3 Matrix
+exp_1_26_user_defined_function_add_3_variables.R	assessment1	1.26	User-Defined Function â€” Add 3 Variables
+exp_2_1_if_else_positive_negative_zero.R	assessment1	2.1	if-else: Positive / Negative / Zero
+exp_2_2_for_loop_multiply_each_element_by_2.R	assessment1	2.2	For Loop â€” Multiply Each Element by 2
+exp_2_3_while_loop_print_1_to_10.R	assessment1	2.3	While Loop â€” Print 1 to 10
+exp_2_4_repeat_loop_print_learning_r_5_times.R	assessment1	2.4	Repeat Loop â€” Print 'Learning R' 5 Times
+exp_2_5_switch_statement_grade_description.R	assessment1	2.5	Switch Statement â€” Grade Description
+exp_2_6_nested_for_loop_multiplication_table_1_5.R	assessment1	2.6	Nested For Loop â€” Multiplication Table (1â€“5)
+exp_2_7_if_else_age_categorization.R	assessment1	2.7	if-else: Age Categorization
+exp_2_8_break_statement_in_for_loop.R	assessment1	2.8	Break Statement in For Loop
+exp_2_9_next_statement_skip_even_numbers.R	assessment1	2.9	Next Statement â€” Skip Even Numbers
+exp_2_10_for_loop_factorial_of_a_number.R	assessment1	2.10	For Loop â€” Factorial of a Number
+exp_3_1_basic_plots_using_mtcars_base_r.R	assessment1	3.1	Basic Plots using mtcars (Base R)
+exp_3_2_ggplot2_plots_using_mtcars.R	assessment1	3.2	ggplot2 Plots using mtcars
+exp_4_1_install_and_load_packages.R	assessment2	4.1	Install and Load Packages
+exp_4_2_load_and_inspect_gapminder.R	assessment2	4.2	Load and Inspect gapminder
+exp_4_3_filter_continent_asia.R	assessment2	4.3	Filter: continent == Asia
+exp_4_4_filter_year_1957.R	assessment2	4.4	Filter: year == 1957
+exp_4_5_filter_year_2002_and_country_china.R	assessment2	4.5	Filter: year == 2002 AND country China
+exp_4_6_sort_lifeexp_ascending_and_descending.R	assessment2	4.6	Sort lifeExp Ascending and Descending
+exp_4_7_filter_1957_sort_pop_descending.R	assessment2	4.7	Filter 1957, Sort pop Descending
+exp_4_8_mutate_create_lifeexpmonths.R	assessment2	4.8	Mutate: Create lifeExpMonths
+exp_4_9_append_lifeexp_converted_to_months.R	assessment2	4.9	Append lifeExp Converted to Months
+exp_4_10_extract_2007_lifeexpmonths_sort_descending.R	assessment2	4.10	Extract 2007, lifeExpMonths, Sort Descending
+exp_4_11_create_gapminder_1952.R	assessment2	4.11	Create gapminder_1952
+exp_4_12_ggplot_scatter_pop_vs_gdppercap_1952.R	assessment2	4.12	ggplot: Scatter pop vs gdpPercap (1952)
+exp_4_13_ggplot_boxplot_gdppercap_by_continent_1952.R	assessment2	4.13	ggplot: Boxplot gdpPercap by Continent (1952)
+exp_4_14_scatter_pop_vs_gdppercap_with_log_scale_1952.R	assessment2	4.14	Scatter: pop vs gdpPercap with Log Scale (1952)
+exp_4_15_scatter_pop_vs_lifeexp_colour_continent_size_gdppercap_1952.R	assessment2	4.15	Scatter: pop vs lifeExp, colour=continent, size=gdpPercap (1952)
+exp_4_16_scatter_pop_vs_lifeexp_facet_by_continent_1952.R	assessment2	4.16	Scatter: pop vs lifeExp â€” Facet by Continent (1952)
+exp_4_17_scatter_pop_vs_lifeexp_facet_by_year.R	assessment2	4.17	Scatter: pop vs lifeExp â€” Facet by Year
+exp_4_18_summarize_mean_and_median_of_lifeexp.R	assessment2	4.18	Summarize: Mean and Median of lifeExp
+exp_4_19_gapminder_1957_median_lifeexp_and_max_gdppercap.R	assessment2	4.19	gapminder 1957: Median lifeExp and Max gdpPercap
+exp_4_20_group_by_continent_and_year_summarize.R	assessment2	4.20	Group by Continent and Year: Summarize
+exp_4_21_create_by_year_median_lifeexp_per_year.R	assessment2	4.21	Create by_year: Median lifeExp per Year
+exp_4_22_scatter_year_vs_medianlifeexp_y_axis_from_0.R	assessment2	4.22	Scatter: Year vs MedianLifeExp (y-axis from 0)
+exp_4_23_create_by_continent_median_gdppercap_1952.R	assessment2	4.23	Create by_continent: Median gdpPercap (1952)
+exp_4_24_bar_plot_continent_vs_mediangdppercap.R	assessment2	4.24	Bar Plot: Continent vs MedianGdpPercap
+exp_4_25_histogram_population_distribution_1952.R	assessment2	4.25	Histogram: Population Distribution (1952)
+exp_5_1_mtcars_dashboard_kasinath_c_a_24mid0124.R	assessment2	5.1	mtcars Dashboard - Kasinath C A - 24MID0124
+exp_6_1_install_required_packages.R	assessment2	6.1	Install Required Packages
+exp_6_2_load_required_packages.R	assessment2	6.2	Load Required Packages
+exp_6_3_load_usarrests_dataset.R	assessment2	6.3	Load USArrests Dataset
+exp_6_4_display_first_and_last_rows.R	assessment2	6.4	Display First and Last Rows
+exp_6_5_standardize_dataset_using_scale.R	assessment2	6.5	Standardize Dataset using scale()
+exp_6_6_set_seed_for_reproducibility.R	assessment2	6.6	Set Seed for Reproducibility
+exp_6_7_apply_k_means_clustering_k_3.R	assessment2	6.7	Apply K-means Clustering (k=3)
+exp_6_8_add_cluster_labels_to_dataset.R	assessment2	6.8	Add Cluster Labels to Dataset
+exp_6_9_count_observations_per_cluster.R	assessment2	6.9	Count Observations per Cluster
+exp_6_10_visualize_clusters_fviz_cluster_2d_pca.R	assessment2	6.10	Visualize Clusters â€” fviz_cluster 2D PCA
+exp_6_11_compute_correlation_matrix.R	assessment2	6.11	Compute Correlation Matrix
+exp_6_12_plot_correlation_heatmap.R	assessment2	6.12	Plot Correlation Heatmap
+exp_6_13_heatmap_with_hierarchical_clustering.R	assessment2	6.13	Heatmap with Hierarchical Clustering
+exp_7_1_binary_colormap.R	assessment3	7.1	Binary Colormap
+exp_7_2_categorical_colormap.R	assessment3	7.2	Categorical Colormap
+exp_7_3_sequential_colormap.R	assessment3	7.3	Sequential Colormap
+exp_7_4_diverging_colormap.R	assessment3	7.4	Diverging Colormap
+exp_7_5_multi_plot_layout_2_2_all_colormaps.R	assessment3	7.5	Multi-plot Layout (2Ã—2) â€“ All Colormaps
+exp_8_1_choropleth_map_usarrests.R	assessment3	8.1	Choropleth Map â€“ USArrests
+exp_8_2_hexagonal_binning_map_earthquakes_near_fiji.R	assessment3	8.2	Hexagonal Binning Map â€“ Earthquakes near Fiji
+exp_8_3_dot_map_us_cities_population_100_000.R	assessment3	8.3	Dot Map â€“ US Cities (Population > 100,000)
+exp_9_1_dax_time_series_loading_exploration_stationarity_test.R	assessment3	9.1	DAX Time Series â€“ Loading, Exploration & Stationarity Test
+exp_9_2_log_returns_transformation_acf_pacf_analysis.R	assessment3	9.2	Log Returns Transformation & ACF/PACF Analysis
+exp_9_3_arima_modeling_forecasting_evaluation.R	assessment3	9.3	ARIMA Modeling, Forecasting & Evaluation
